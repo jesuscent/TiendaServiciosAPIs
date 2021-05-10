@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiendaServicios.api.Autor", "TiendaServicios.api.Autor\TiendaServicios.api.Autor.csproj", "{E9CEDF9D-DB31-4888-9F5B-FA9F6E936510}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiendaServicios.api.Libro", "TiendaServicios.api.Libro\TiendaServicios.api.Libro.csproj", "{3A21784F-A445-4647-8C70-25E39BC06517}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiendaServicios.api.CarritoCompra", "TiendaServicios.api.CarritoCompra\TiendaServicios.api.CarritoCompra.csproj", "{8987B869-AC60-4DEC-8718-40D04D958191}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "web", "web", "{F34C04AB-2C7F-4F5C-8DB5-D09F4A63041F}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "NodejsWebApp1", "NodejsWebApp1\NodejsWebApp1.njsproj", "{C74011C4-E5D5-4C50-9B6D-428C0A64C288}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{5715A928-9100-4D91-9DD6-5599DBBB8C85}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "NodejsApp2", "..\NodejsApp2.njsproj", "{1456FE1F-F2CB-496B-AFF8-48BDC631A0E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9CEDF9D-DB31-4888-9F5B-FA9F6E936510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9CEDF9D-DB31-4888-9F5B-FA9F6E936510}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9CEDF9D-DB31-4888-9F5B-FA9F6E936510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9CEDF9D-DB31-4888-9F5B-FA9F6E936510}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A21784F-A445-4647-8C70-25E39BC06517}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A21784F-A445-4647-8C70-25E39BC06517}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A21784F-A445-4647-8C70-25E39BC06517}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A21784F-A445-4647-8C70-25E39BC06517}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8987B869-AC60-4DEC-8718-40D04D958191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8987B869-AC60-4DEC-8718-40D04D958191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8987B869-AC60-4DEC-8718-40D04D958191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8987B869-AC60-4DEC-8718-40D04D958191}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C74011C4-E5D5-4C50-9B6D-428C0A64C288}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C74011C4-E5D5-4C50-9B6D-428C0A64C288}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C74011C4-E5D5-4C50-9B6D-428C0A64C288}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C74011C4-E5D5-4C50-9B6D-428C0A64C288}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1456FE1F-F2CB-496B-AFF8-48BDC631A0E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1456FE1F-F2CB-496B-AFF8-48BDC631A0E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1456FE1F-F2CB-496B-AFF8-48BDC631A0E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1456FE1F-F2CB-496B-AFF8-48BDC631A0E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C74011C4-E5D5-4C50-9B6D-428C0A64C288} = {F34C04AB-2C7F-4F5C-8DB5-D09F4A63041F}
+		{5715A928-9100-4D91-9DD6-5599DBBB8C85} = {F34C04AB-2C7F-4F5C-8DB5-D09F4A63041F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C01E60D-6E73-4A00-8953-D75507044C9A}
+	EndGlobalSection
+EndGlobal
